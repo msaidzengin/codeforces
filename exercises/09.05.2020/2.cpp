@@ -6,7 +6,7 @@ int nums[300000];
 
 int main() {
 	int x;
-	int sum = 0;
+	long long int sum = 0;
 
 	cin >> x;
 	for (int i = 0; i < x; i++)
